@@ -59,6 +59,6 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 ## Results
-Enter the coordinates and see the route in the map. Example:
+Enter the coordinates and see the route in the map. Example:</br></br>
 <img src="map1.PNG" width="600" height="450" />
 <img src="map2.PNG" width="600" height="450" />
