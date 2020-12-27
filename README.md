@@ -1,18 +1,18 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
-
-<img src="map.png" width="600" height="450" />
+This repo contains the first project of the [C++ Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) from Udacity.</br></br>
+In this project, we will use OpenStreetMap data and the IO2D visualization library to build a route planner that finds a path between two points on a real-world map using A*.</br></br>
+The starter code can be found [here](https://github.com/udacity/CppND-Route-Planning-Project).
 
 ## Cloning
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/blelevier/CppND-Route-Planning-Project.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:blelevier/CppND-Route-Planning-Project.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
@@ -58,4 +58,7 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-
+## Results
+Enter the coordinates and see the route in the map:
+<img src="map1.png" width="600" height="450" />
+<img src="map2.png" width="600" height="450" />
